@@ -47,8 +47,6 @@ The Number Plate Detection project consists of the following key steps:
 2. Execute the project script for number plate detection and recognition.
 3. View the output images with detected plates and extracted text.
 
-For detailed code examples and usage instructions, please refer to the [documentation](docs/README.md).
-
 
 ## License
 
